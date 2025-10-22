@@ -1,8 +1,6 @@
-#👋 Hi, I'm Ishah Nicholei Bautista!
+##👋 Hi, I'm Ishah Nicholei Bautista!
 
 I'm a third year **BS Computer Science** Student at The University of the Philippines Cebu.
-
-</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishah-nicholei-bautista-44404530b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kofishah3@gmail.com)
@@ -33,4 +31,5 @@ I'm a third year **BS Computer Science** Student at The University of the Philip
 
 ### 📊 GitHub Stats
 ![Ishah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kofishah3&show_icons=true&theme=tokyonight)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kofishah3&layout=compact&theme=tokyonight)
