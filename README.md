@@ -8,7 +8,7 @@ I'm a third year **BS Computer Science** Student at The University of the Philip
 
 
 ### About Me
-💡 **Interests:** Game Development, UI/UX, AR/VR, Full-Stack Development  
+💡 **Interests:** Game Development, UI/UX, AR/VR, AI/ML, Full-Stack Development 
 🎨 **Hobbies:** Playing Indie Games, Wood Carving, Digital Drawing, 3d Modelling
 
 ---
