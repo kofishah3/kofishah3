@@ -27,8 +27,3 @@ I'm a third year **BS Computer Science** Student at The University of the Philip
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Ishah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kofishah3&show_icons=true&theme=tokyonight)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kofishah3&layout=compact&theme=tokyonight)
